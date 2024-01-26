@@ -1,0 +1,1 @@
+window.ALL_CRATES = ["practice_3"];
